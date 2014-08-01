@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ENDDYLAN-ACER-P</Machine>
+    <WindowsUser>enddylan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>96E9A23263BB7FB2A3D948589884F4BD66E72F5F6FFE01F14E2844FB8F653EDC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5ca6b86b-87f0-41a7-a3b8-4a8ada123759_1.0.0.0_neutral__4qgkyz5neyy0w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5ca6b86b-87f0-41a7-a3b8-4a8ada123759_4qgkyz5neyy0w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5ca6b86b-87f0-41a7-a3b8-4a8ada123759</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=enddylan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-31T15:02:09.892</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-07-31T14:56:39.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\pages\itemDetail\itemDetail.css">
+      <PackagePath>pages\itemDetail\itemDetail.css</PackagePath>
+      <Modified>2014-07-31T14:56:39.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\pages\groupDetail\groupDetail.css">
+      <PackagePath>pages\groupDetail\groupDetail.css</PackagePath>
+      <Modified>2014-07-31T14:56:39.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\pages\groupedItems\groupedItems.css">
+      <PackagePath>pages\groupedItems\groupedItems.css</PackagePath>
+      <Modified>2014-07-31T14:56:39.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T03:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T03:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T03:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T03:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-07-26T11:16:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-07-31T14:56:39.133</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2014-07-31T14:56:39.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\pages\itemDetail\itemDetail.js">
+      <PackagePath>pages\itemDetail\itemDetail.js</PackagePath>
+      <Modified>2014-07-31T14:56:39.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\pages\groupDetail\groupDetail.js">
+      <PackagePath>pages\groupDetail\groupDetail.js</PackagePath>
+      <Modified>2014-07-31T14:56:39.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\pages\groupedItems\groupedItems.js">
+      <PackagePath>pages\groupedItems\groupedItems.js</PackagePath>
+      <Modified>2014-07-31T14:56:39.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\pages\itemDetail\itemDetail.html">
+      <PackagePath>pages\itemDetail\itemDetail.html</PackagePath>
+      <Modified>2014-07-31T14:56:39.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\pages\groupDetail\groupDetail.html">
+      <PackagePath>pages\groupDetail\groupDetail.html</PackagePath>
+      <Modified>2014-07-31T14:56:39.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\pages\groupedItems\groupedItems.html">
+      <PackagePath>pages\groupedItems\groupedItems.html</PackagePath>
+      <Modified>2014-07-31T14:56:39.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-07-31T14:56:39.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\enddylan\Documents\Visual Studio 2012\Projects\App1\App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-31T15:02:08.189</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
